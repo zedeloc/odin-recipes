@@ -1,0 +1,13 @@
+
+
+* {
+    max-width: 960px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    color: darkblue;
+}
+
+img {
+    justify-self: center;
+}
