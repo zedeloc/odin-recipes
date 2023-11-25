@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Times, serif;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(95, 189, 220);
+    padding: 16px;
+}
+
+.list-card {
+    background-color: rgb(131, 131, 201);
+    width: 300px;
+    padding: 20px;
+    padding-top: 5px;
+    margin: 20px;
+    border-width: 10px;
+    border-color: rgb(0, 0, 0);
+}
+
+.card {
+    width: 50%;
+    margin: auto;
+}
+
+button {
+    padding: 8px 24px;
+    background-color: rgb(197, 197, 197);
+    color: rgb(86, 9, 9);
+}
